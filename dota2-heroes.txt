@@ -43,6 +43,7 @@ Io
 Jakiro
 Juggernaut
 Keeper of the Light
+Kez
 Kunkka
 Legion Commander
 Leshrac
@@ -82,6 +83,7 @@ Pugna
 Queen of Pain
 Razor
 Riki
+Ring Master
 Rubick
 Sand King
 Shadow Demon
